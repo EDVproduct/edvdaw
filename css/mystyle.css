@@ -1,0 +1,4 @@
+.pagination li.disabled {
+	cursor: default;
+	color: #999; 
+}
